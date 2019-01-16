@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "./static/media/basla.cd1be2c6.png"
   },
   {
-    "revision": "ea2fc13ca6bed8addd97",
+    "revision": "0d8ce8721d0504db78c6",
     "url": "./static/css/main.d28bfbad.chunk.css"
   },
   {
-    "revision": "63257fa24df9a787c7f1",
-    "url": "./static/js/1.63257fa2.chunk.js"
+    "revision": "da4315317290bb72e84b",
+    "url": "./static/js/1.da431531.chunk.js"
   },
   {
     "revision": "4a686d48d5a089750c49",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "./static/media/t01.30b34bee.png"
   },
   {
-    "revision": "ea2fc13ca6bed8addd97",
-    "url": "./static/js/main.ea2fc13c.chunk.js"
+    "revision": "0d8ce8721d0504db78c6",
+    "url": "./static/js/main.0d8ce872.chunk.js"
   },
   {
     "revision": "743aa78e1c29baf73bca61ea9f006e34",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "./static/media/Bahiana-Regular.eee4dd85.woff"
   },
   {
-    "revision": "0fe146f17bd442dadc96bf00617ff288",
+    "revision": "b8708b846cbba6801644f3be6816d6b6",
     "url": "./index.html"
   }
 ];
