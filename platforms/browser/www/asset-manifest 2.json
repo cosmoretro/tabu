@@ -1,0 +1,21 @@
+{
+  "main.css": "./static/css/main.d28bfbad.chunk.css",
+  "main.js": "./static/js/main.0d8ce872.chunk.js",
+  "main.js.map": "./static/js/main.0d8ce872.chunk.js.map",
+  "static/js/1.da431531.chunk.js": "./static/js/1.da431531.chunk.js",
+  "static/js/1.da431531.chunk.js.map": "./static/js/1.da431531.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/media/App.css": "./static/media/Bahiana-Regular.eee4dd85.woff",
+  "static/media/index.css": "./static/media/border.1252b5c6.png",
+  "static/media/logo.png": "./static/media/logo.318fc188.png",
+  "static/media/t01.png": "./static/media/t01.30b34bee.png",
+  "static/media/basla.png": "./static/media/basla.cd1be2c6.png",
+  "static/media/howto.png": "./static/media/howto.743aa78e.png",
+  "static/media/baslat.png": "./static/media/baslat.85f5248d.png",
+  "static/media/home.png": "./static/media/home.20617633.png",
+  "static/css/main.d28bfbad.chunk.css.map": "./static/css/main.d28bfbad.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.505fcc871cb105ba7b8c01fb493f1a99.js": "./precache-manifest.505fcc871cb105ba7b8c01fb493f1a99.js",
+  "service-worker.js": "./service-worker.js"
+}
